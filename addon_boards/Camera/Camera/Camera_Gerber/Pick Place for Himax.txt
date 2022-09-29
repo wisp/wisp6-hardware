@@ -1,0 +1,33 @@
+Altium Designer Pick and Place Locations
+Z:\fskbs_pcb_rev2\Rev3 (9-26-2020 4-48-06 PM)\FSK-rev3\FSK-Tag\Camera\Project Outputs for Camera\Pick Place for Himax.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       05/02/21
+Time:       14:28
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment         Layer       Footprint          Center-X(mil) Center-Y(mil) Rotation Description                                                                                  
+R44        0               TopLayer    0402               110.000       219.685       270      "0 Ohms Jumper 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film" 
+U43        SFV24R-1STE1HLF TopLayer    FCI_SFV24R-2STE1LF 338.000       360.000       360      "Himax Camera Connector"                                                                     
+R42        0               BottomLayer 0402               390.000       208.605       360      "0 Ohms Jumper 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film" 
+R41        DNP             BottomLayer 0402               550.000       195.000       90       "0 Ohms Jumper 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film" 
+R43        DNP             TopLayer    0402               55.000        220.000       90       "0 Ohms Jumper 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film" 
+R45        0               TopLayer    0402               1035.000      540.000       180      "0 Ohms Jumper 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film" 
+C45        0.1uF           TopLayer    0402               620.000       249.685       270      "CAP CER 1UF 10V X7S 0402"                                                                   
+U44        DNP             BottomLayer TRANS4_PYD_1598_   897.638       342.323       90       "Motion Detector"                                                                            
+U42        TPS70628        BottomLayer TI-DDC5_M          170.000       297.401       180      "Linear Voltage Regulator IC Positive Fixed 1 Output 150mA SOT-23-5"                         
+U41        TPS70618        BottomLayer TI-DDC5_M          447.244       297.401       180      "Linear Voltage Regulator IC Positive Fixed 1 Output 150mA SOT-23-5"                         
+C44        2.2uF           BottomLayer 0402               60.000        315.000       90       "CAP CER 1UF 10V X7S 0402"                                                                   
+P42        "Header 4"      TopLayer    HDR1X4             900.000       650.000       180      "Header, 4-Pin"                                                                              
+R49        0               BottomLayer 0402               630.000       510.000       360      "0 Ohms Jumper 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film" 
+R48        0               TopLayer    0402               600.000       145.000       180      "0 Ohms Jumper 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film" 
+R47        0               BottomLayer 0402               630.000       470.000       180      "0 Ohms Jumper 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film" 
+R46        DNP             TopLayer    0402               600.000       185.000       360      "0 Ohms Jumper 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film" 
+P41        "Header 11"     TopLayer    HDR1X11            550.000       50.000        180      "Header, 11-Pin"                                                                             
+C43        1uF             BottomLayer 0402               280.000       315.000       90       "CAP CER 1UF 10V X7S 0402"                                                                   
+C42        2.2uF           BottomLayer 0402               345.000       315.000       90       "CAP CER 1UF 10V X7S 0402"                                                                   
+C41        1uF             BottomLayer 0402               570.000       315.000       90       "CAP CER 1UF 10V X7S 0402"                                                                   

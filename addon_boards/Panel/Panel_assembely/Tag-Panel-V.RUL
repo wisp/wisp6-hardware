@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: Z:\wisp6\wisp-6-0\wisp-6-0\mount-on_boards\Panel\Tag-Panel-V.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance_RF|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance_poly|Scope=Board|Minimum=8.00

@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PNXMLSQC
 
 [Document2]
-DocumentPath=..\libraries\WISP_AD10.SchLib
+DocumentPath=..\libraries\WISP6.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

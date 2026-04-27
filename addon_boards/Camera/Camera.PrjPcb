@@ -220,57 +220,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document11]
-DocumentPath=CAMtastic1.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document12]
-DocumentPath=CAMtastic2.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document13]
-DocumentPath=CAMtastic3.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document14]
 DocumentPath=..\..\libraries\WISP6.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -285,9 +234,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GFIUJIGD
 
-[Document15]
+[Document12]
 DocumentPath=..\..\libraries\BLE.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -302,7 +251,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HDJKCVNB
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Camera\Design Rule Check - Himax.html
@@ -317,147 +266,99 @@ DocumentPath=Project Outputs for Camera\Himax.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Camera\Himax.GBL
+DocumentPath=Project Outputs for Camera\Himax.G1
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Camera\Himax.GBO
+DocumentPath=Project Outputs for Camera\Himax.G2
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Camera\Himax.GBP
+DocumentPath=Project Outputs for Camera\Himax.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Camera\Himax.GBS
+DocumentPath=Project Outputs for Camera\Himax.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Camera\Himax.GD1
+DocumentPath=Project Outputs for Camera\Himax.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Camera\Himax.GG1
+DocumentPath=Project Outputs for Camera\Himax.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Camera\Himax.GKO
+DocumentPath=Project Outputs for Camera\Himax.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Camera\Himax.GM13
+DocumentPath=Project Outputs for Camera\Himax.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Camera\Himax.GM15
+DocumentPath=Project Outputs for Camera\Himax.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Camera\Himax.GPB
+DocumentPath=Project Outputs for Camera\Himax.GM
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Camera\Himax.GPT
+DocumentPath=Project Outputs for Camera\Himax.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Camera\Himax.GTL
+DocumentPath=Project Outputs for Camera\Himax.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Camera\Himax.GTO
+DocumentPath=Project Outputs for Camera\Himax.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Camera\Himax.GTP
+DocumentPath=Project Outputs for Camera\Himax.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Camera\Himax.GTS
+DocumentPath=Project Outputs for Camera\Himax.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Camera\Himax.LDP
+DocumentPath=Project Outputs for Camera\Himax.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for Camera\Himax.REP
+DocumentPath=Project Outputs for Camera\Himax.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for Camera\Himax.RUL
+DocumentPath=Project Outputs for Camera\Himax.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for Camera\Himax.TXT
+DocumentPath=Project Outputs for Camera\Himax.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for Camera\Himax_Copper_Signal_1.gbr
+DocumentPath=Project Outputs for Camera\Himax.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for Camera\Himax_Copper_Signal_2.gbr
+DocumentPath=Project Outputs for Camera\Himax.REP
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for Camera\Himax_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for Camera\Himax.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for Camera\Himax_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for Camera\Himax.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for Camera\Himax_Keep-out.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for Camera\Himax_Legend_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for Camera\Himax_Legend_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for Camera\Himax_Mechanical_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for Camera\Himax_Mechanical_13.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for Camera\Himax_Mechanical_15.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for Camera\Himax_Pads_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for Camera\Himax_Pads_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs for Camera\Himax_Paste_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs for Camera\Himax_Paste_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs for Camera\Himax_Profile.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs for Camera\Himax_Soldermask_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs for Camera\Himax_Soldermask_Top.gbr
+DocumentPath=Project Outputs for Camera\Pick Place for Himax.csv
 DItemRevisionGUID=
 
 [Configuration1]
@@ -488,7 +389,7 @@ TemplateFilename=Board Stack Report.XLT
 TemplateStoreRelative=-1
 PCB_PrintColor=0
 SCH_PrintColor=0
-PrintQuality=-4
+PrintQuality=-3
 SCH_ShowNoErc=-1
 SCH_ShowParameter=-1
 SCH_ShowProbes=-1
@@ -507,6 +408,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 Wir_PrintColor=0
 Ldr_PrintColor=0
+Esd_PrintColor=0
 
 [Generic_EDE]
 OutputDir=
@@ -733,6 +635,10 @@ OutputName2=Generates pick and place files
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
+Configuration2_Name1=ForceUpdateSettings
+Configuration2_Item1=False
+Configuration2_Name2=OutputConfigurationParameter1
+Configuration2_Item2=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|GenerateTextFormat=False|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|IncludeStandardNoBOM=True|Filter= |FilterActive=False|YFlip=False|DifferentFootprints=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:71,Type:0|Column#18=Name:ComponentLink3Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23,Type:0|Column#19=Name:Wire/Cable Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:80,Type:0|Column#20=Name:REACH SVHC,Fixed:False,Metric:False,Visible:False,Sort:None,Position:72,Type:0|Column#21=Name:Housing Color,Fixed:False,Metric:False,Visible:False,Sort:None,Position:34,Type:0|Column#22=Name:Pitch,Fixed:False,Metric:False,Visible:False,Sort:None,Position:65,Type:0|Column#23=Name:LatestRevisionNote,Fixed:False,Metric:False,Visible:False,Sort:None,Position:38,Type:0|Column#24=Name:Output Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:62,Type:0|Column#25=Name:Package Quantity,Fixed:False,Metric:False,Visible:False,Sort:None,Position:63,Type:0|Column#26=Name:Housing Material,Fixed:False,Metric:False,Visible:False,Sort:None,Position:35,Type:0|Column#27=Name:Max Output Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:45,Type:0|Column#28=Name:Length,Fixed:False,Metric:False,Visible:False,Sort:None,Position:40,Type:0|Column#29=Name:Insulation Resistance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:36,Type:0|Column#30=Name:Max Operating Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:44,Type:0|Column#31=Name:Min Operating Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:50,Type:0|Column#32=Name:Actuator Material,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17,Type:0|Column#33=Name:Min Input Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:49,Type:0|Column#34=Name:Packaging,Fixed:False,Metric:False,Visible:False,Sort:None,Position:64,Type:0|Column#35=Name:Mount,Fixed:False,Metric:False,Visible:False,Sort:None,Position:51,Type:0|Column#36=Name:Contact Plating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27,Type:0|Column#37=Name:Number of Pins,Fixed:False,Metric:False,Visible:False,Sort:None,Position:55,Type:0|Column#38=Name:Pricing 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:67,Type:0|Column#39=Name:Stock 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:73,Type:0|Column#40=Name:Max Voltage Rating (DC),Fixed:False,Metric:False,Visible:False,Sort:None,Position:47,Type:0|Column#41=Name:Case/Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18,Type:0|Column#42=Name:Dropout Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32,Type:0|Column#43=Name:ComponentLink3URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24,Type:0|Column#44=Name:Number of Outputs,Fixed:False,Metric:False,Visible:False,Sort:None,Position:54,Type:0|Column#45=Name:Polarity,Fixed:False,Metric:False,Visible:False,Sort:None,Position:66,Type:0|Column#46=Name:Note,Fixed:False,Metric:False,Visible:False,Sort:None,Position:52,Type:0|Column#47=Name:Supplier 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:74,Type:0|Column#48=Name:Tolerance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:77,Type:0|Column#49=Name:Supplier Part Number 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:75,Type:0|Column#50=Name:ComponentLink2URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22,Type:0|Column#51=Name:Number of Contacts,Fixed:False,Metric:False,Visible:False,Sort:None,Position:53,Type:0|Column#52=Name:Manufacturer,Fixed:False,Metric:False,Visible:False,Sort:None,Position:41,Type:0|Column#53=Name:Number of Regulators,Fixed:False,Metric:False,Visible:False,Sort:None,Position:57,Type:0|Column#54=Name:Contact Resistance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28,Type:0|Column#55=Name:Orientation,Fixed:False,Metric:False,Visible:False,Sort:None,Position:59,Type:0|Column#56=Name:Min Current Limit,Fixed:False,Metric:False,Visible:False,Sort:None,Position:48,Type:0|Column#57=Name:Quiescent Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:69,Type:0|Column#58=Name:Number of Rows,Fixed:False,Metric:False,Visible:False,Sort:None,Position:58,Type:0|Column#59=Name:Digi-Key Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31,Type:0|Column#60=Name:Current Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29,Type:0|Column#61=Name:Max Input Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:43,Type:0|Column#62=Name:Radiation Hardening,Fixed:False,Metric:False,Visible:False,Sort:None,Position:70,Type:0|Column#63=Name:Contact Location,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25,Type:0|Column#64=Name:ComponentLink2Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21,Type:0|Column#65=Name:Lead Free,Fixed:False,Metric:False,Visible:False,Sort:None,Position:39,Type:0|Column#66=Name:Termination,Fixed:False,Metric:False,Visible:False,Sort:None,Position:76,Type:0|Column#67=Name:Output Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:61,Type:0|Column#68=Name:ComponentLink1URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20,Type:0|Column#69=Name:Accuracy,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16,Type:0|Column#70=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:78,Type:0|Column#71=Name:Number of Positions,Fixed:False,Metric:False,Visible:False,Sort:None,Position:56,Type:0|Column#72=Name:Contact Material,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26,Type:0|Column#73=Name:LatestRevisionDate,Fixed:False,Metric:False,Visible:False,Sort:None,Position:37,Type:0|Column#74=Name:Output Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:60,Type:0|Column#75=Name:Publisher,Fixed:False,Metric:False,Visible:False,Sort:None,Position:68,Type:0|Column#76=Name:Max Voltage Rating (AC),Fixed:False,Metric:False,Visible:False,Sort:None,Position:46,Type:0|Column#77=Name:ComponentLink1Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19,Type:0|Column#78=Name:Voltage Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:79,Type:0|Column#79=Name:Flammability Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:33,Type:0|Column#80=Name:Depth,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30,Type:0|Column#81=Name:Manufacturer Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:42,Type:0|DocumentPath=C:\Users\Tremaine\Downloads\git\WISP6\wisp6-hardware\addon_boards\Camera\Himax.PcbDoc
 OutputType3=Test Points For Assembly
 OutputName3=Test Point Report
 OutputDocumentPath3=
@@ -1115,7 +1021,7 @@ OutputDefault8=0
 Configuration8_Name1=ForceUpdateSettings
 Configuration8_Item1=False
 Configuration8_Name2=OutputConfigurationParameter1
-Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes|DocumentPath=Z:\wisp6\WISP_Hardware\mount-on_boards\Camera\Himax.PcbDoc
+Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes|DocumentPath=C:\Users\Tremaine\Downloads\git\WISP6\wisp6-hardware\addon_boards\Camera\Himax.PcbDoc
 OutputType9=IPC2581
 OutputName9=IPC-2581 Files
 OutputDocumentPath9=
@@ -1148,7 +1054,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16908301~1,16908303~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=True|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=Z:\wisp6\WISP_Hardware\mount-on_boards\Camera\Himax.PcbDoc
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=BBXMJJBJ|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Different|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16908301~1,16908303~1,16973837~1,16973848~1,16973849~1,16777218~1,16777219~1,16908289~1|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName= |PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=True|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName= |PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=True|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=C:\Users\Tremaine\Downloads\git\WISP6\wisp6-hardware\addon_boards\Camera\Himax.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
@@ -1161,6 +1067,20 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=2|FormWidth=2560|FormHeight=1394|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Comment=True|Footprint=True|Value=True
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120|Value=100|Manufacturer Part Number=100|Manufacturer=100|Digi-Key Part Number=100
+Configuration1_Name7=VisibleOrder_Flat
+Configuration1_Item7=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120|Value=100|Manufacturer Part Number=100|Manufacturer=100|Digi-Key Part Number=100
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
